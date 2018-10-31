@@ -11,3 +11,10 @@
 - 文档
 - 问答社区，也可以直接用github的问答社区
 - 及时交流社区，即QQ群、微信群
+#### 下载代码
+- 进入 [github](https://github.com/18798843398/guoguodemo) 项目主页，复制 git 地址（注意选择 use ssh ，不要 use https ），如下图![image](http://img.mukewang.com/5ae9cbdc0001af0209060426.png)
+- 用git bash 选择合适的文件夹或目录
+- 执行下载： 
+```
+git clone git@github.com:18798843398/guoguodemo.git
+```
